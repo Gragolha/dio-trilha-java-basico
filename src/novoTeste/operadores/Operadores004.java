@@ -20,9 +20,6 @@ public class Operadores004 {
 		boolean variavel = true;
 		
 		variavel = !variavel;
-		
-		System.out.println(variavel);
-		
 	}
 
 }
