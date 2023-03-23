@@ -22,7 +22,6 @@ public class Operadores001 {
 		int modulo = 18 % 3;
 		double resultado = (10 * 7) + (20/4);
 		
-		
 		System.out.println("resultado: " + resultado);
 		System.out.println("soma: " + soma);
 		System.out.println("resultado de: " + (resultado + soma));
