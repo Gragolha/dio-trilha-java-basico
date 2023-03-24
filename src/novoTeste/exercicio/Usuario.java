@@ -10,7 +10,7 @@ public class Usuario {
 		smartTv.diminuirVolume();
 		smartTv.diminuirVolume();
 		smartTv.aumentarVolume();
-		
+
 		smartTv.mudarCanal(12);
 
 		System.out.println("TV Ligada: " + smartTv.ligada);

@@ -6,10 +6,7 @@ public class SmartTv {
 	int canal = 1;
 	int volume = 25;
 	
-	
-	
-	
-	
+
 	public void aumentarCanal() {
 		canal++;
 	}
@@ -21,6 +18,7 @@ public class SmartTv {
 	public void mudarCanal( int novoCanal) {
 		canal = novoCanal;
 	}
+	
 	
 	
 	public void aumentarVolume() {
