@@ -4,12 +4,9 @@ public class Logico {
 
 	public static void main(String[] args) {
 		
-		
 		// && = and  || = or
 		
-		
 		boolean cond1, cond2;
-		
 		
 		cond1 = true;
 		cond2 = false;
@@ -19,7 +16,6 @@ public class Logico {
 			System.out.println("real");
 
 		}
-		
 		
 		System.out.println("fim");
 		
