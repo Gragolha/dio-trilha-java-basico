@@ -1,5 +1,7 @@
 package novoTeste.jogo;
 
+import java.util.Scanner;
+
 public class Jogo {
 
 	public static void main(String[] args) {
