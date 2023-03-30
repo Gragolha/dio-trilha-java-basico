@@ -7,7 +7,6 @@ public class Teste {
         int num = 5, count = 1;
         while(count <= 3) {
         	System.out.println("count inicio: " + count);
-        	
             ++count;
             System.out.println("count final: " + count);
             System.out.println("Num inicio: "+ num);
